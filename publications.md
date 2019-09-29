@@ -4,12 +4,10 @@ title: Publications
 permalink: /publications/
 ---
 
-### Publications
-
  - **Can You Unpack That? Learning to Rewrite Questions-in-Context** (EMNLP 2019)<br /> 
  Ahmed Elgohary, **Denis Peskov**, Jordan Boyd-Graber
 
-- ** Comparing and Developing Tools to Measure the Readability of Domain-Specific     Texts** (EMNLP 2019) <br />
+- **Comparing and Developing Tools to Measure the Readability of Domain-Specific     Texts** (EMNLP 2019) <br />
   Elissa Redmiles, Lisa Maszkiewicz, Emily Hwang, Dhruv Kuchhal, Everest Liu, Miraida Morales, **Denis Peskov**, Sudha Rao, Rock Stevens, Kristina Gligoric, Sean Kross, Michelle Mazurek,and Hal Daume ́III
 
 - **Mitigating Noisy Inputs for Question Answering** (INTERSPEECH 2019)<br />
