@@ -9,7 +9,7 @@ name: Denis Peskov
 description: NLP Researcher
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar:  
+avatar:  https://github.com/DenisPeskov/denispeskov.github.io/blob/master/images/Headshot_Wedding.png
 
 #
 # Flags below are optional
@@ -23,7 +23,7 @@ footer-links:
   flickr:
   github: denispeskov
   instagram:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/denis-peskov/
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
