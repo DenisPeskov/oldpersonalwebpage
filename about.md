@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I am Denis Peskov, a PhD student studying studying computational linguistics (nlp) at the University of Maryland.  I am advised by Professor Jordan Boyd-Graber.  My main research interest is leveraging domain experts to create meaningful and accurate datasets.  Additionally, I'm interested in question answering and machine translation.  
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[dpeskov~at~umd.edu](mailto:email@domain.com)
