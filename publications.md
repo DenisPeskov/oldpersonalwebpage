@@ -8,7 +8,7 @@ permalink: /publications/
  Ahmed Elgohary, **Denis Peskov**, Jordan Boyd-Graber
 
 - **Comparing and Developing Tools to Measure the Readability of Domain-Specific     Texts** (EMNLP 2019) <br />
-  Elissa Redmiles, Lisa Maszkiewicz, Emily Hwang, Dhruv Kuchhal, Everest Liu, Miraida Morales, **Denis Peskov**, Sudha Rao, Rock Stevens, Kristina Gligoric, Sean Kross, Michelle Mazurek,and Hal Daume ́III
+  Elissa Redmiles, Lisa Maszkiewicz, Emily Hwang, Dhruv Kuchhal, Everest Liu, Miraida Morales, **Denis Peskov**, Sudha Rao, Rock Stevens, Kristina Gligoric, Sean Kross, Michelle Mazurek, Hal Daumé III
 
 - **Mitigating Noisy Inputs for Question Answering** (INTERSPEECH 2019)<br />
   **Denis Peskov**, Joe Barrow, Pedro Rodriguez, Graham Neubig, Jordan Boyd-Graber
