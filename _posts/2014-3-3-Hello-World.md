@@ -1,10 +1,19 @@
 ---
 layout: post
-title: You're up and running!
+title: Hello World and How to Build a Website
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+I've re-done my personal website and intend to occasionally publish technical content here.  
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+Jekyll (where this is forked from) makes websites easy to build. It ss both browser and mobile friendly.  There are many customizable themes readily available if you want a less minimalistic experience.  You'll also want to purchase a domain, unless you're content with yourgithubname.github.io.  Website domains are somewhat expensive (Anguilla chose the most marketable extension), but once you purchase one, the redirect is trivial.  
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+To do what I did, follow directions here:
+https://github.com/barryclark/jekyll-now
+ 
+
+Then link it to your website as such (varies by website vendor):
+https://www.namecheap.com/support/knowledgebase/article.aspx/9645/2208/how-do-i-link-my-domain-to-github-pages
+
+After your website is online for 24 hours you'll want to update your git settings to enforce HTTPS or otherwise you'll be branded as "Not Secure".  
+
+You'll have to update the layout and actually write your content though!  Robots: 1 for automation.  Human: 1 for being able to think of content for a first blog post.  
