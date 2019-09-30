@@ -11,18 +11,24 @@ I will be abroad at Ludwig Maximillian Universität in Munich in 2020 thanks to 
 ### Education:
 
 Ph.D., University of Maryland, Computer Science 2016 - ?
+
 Masters, University of Maryland, Computer Science 2016-2018
+
 B.S.F.S., Georgetown University, School of Foreign Service 2014
 
 ### Industry Experience:
 Amazon AWS AI
+
 3M Healthcare (Natural Language Processing group)
+
 PricewaterhouseCoopers Analytics Innovation Accelerator
 
 ### Languages:
 
 Human: English, Russian, German, Spanish
+
 01100011 01110011: Python, Java, Coq, C++, R
+
 (decreasing order of fluency)
 
 ### Contact me
