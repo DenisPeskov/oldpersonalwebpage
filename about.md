@@ -12,7 +12,7 @@ I will be abroad at Ludwig Maximillian Universität in Munich in 2020 thanks to 
 
 Ph.D., University of Maryland, Computer Science 2016 - ?
 
-Masters, University of Maryland, Computer Science 2016-2018
+M.S., University of Maryland, Computer Science 2016-2018
 
 B.S.F.S., Georgetown University, School of Foreign Service 2014
 
