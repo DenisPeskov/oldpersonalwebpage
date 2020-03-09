@@ -16,8 +16,13 @@ permalink: /publications/
   Elissa Redmiles, Lisa Maszkiewicz, Emily Hwang, Dhruv Kuchhal, Everest Liu, Miraida Morales, **Denis Peskov**, Sudha Rao, Rock Stevens, Kristina Gligoric, Sean Kross, Michelle Mazurek, Hal Daumé III 
 
 
-- **Mitigating Noisy Inputs for Question Answering** (INTERSPEECH 2019)<br />
+- **Mitigating Noisy Inputs for Question Answering** (INTERSPEECH 2019)(http://users.umiacs.umd.edu/~jbg/docs/2019_interspeech_asr)<br />
   **Denis Peskov**, Joe Barrow, Pedro Rodriguez, Graham Neubig, Jordan Boyd-Graber
+  
+  
+- [**Measuring the Rapid Growth of HSTS and HPKP Deployments**](https://pdfs.semanticscholar.org/253d/a72dc6597e1ea4752008a28fd89b66866190.pdf) (Unpublished 2017)<br />
+Ivan Petrov, **Denis Peskov**, Gregory Coard, Taejoong Chung, David Choffnes, Dave Levin, Bruce M. Maggs, Alan Mislove, Christo Wilson
+  
   
 - **UMDeep at SemEval-2017 Task 1: End-to-End Shared Weight LSTM Model for Semantic Textual Similarity** (SemEval 2017)<br />
   Joe Barrow, **Denis Peskov**
