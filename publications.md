@@ -16,7 +16,7 @@ permalink: /publications/
   Elissa Redmiles, Lisa Maszkiewicz, Emily Hwang, Dhruv Kuchhal, Everest Liu, Miraida Morales, **Denis Peskov**, Sudha Rao, Rock Stevens, Kristina Gligoric, Sean Kross, Michelle Mazurek, Hal Daumé III 
 
 
-- **Mitigating Noisy Inputs for Question Answering** (INTERSPEECH 2019)(http://users.umiacs.umd.edu/~jbg/docs/2019_interspeech_asr)<br />
+- [**Mitigating Noisy Inputs for Question Answering**](http://users.umiacs.umd.edu/~jbg/docs/2019_interspeech_asr)(INTERSPEECH 2019)<br />
   **Denis Peskov**, Joe Barrow, Pedro Rodriguez, Graham Neubig, Jordan Boyd-Graber
   
   
