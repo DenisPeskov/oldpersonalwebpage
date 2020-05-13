@@ -4,6 +4,8 @@ title: Publications
 permalink: /publications/
 ---
 
+-  [**It Takes Two To Lie: One to Lie, and One to Listen**](https://go.umd.edu/diplomacy_data) (ACL 2020) <br /> **Denis Peskov**, Benny Cheng, Ahmed Elgohary, Joe Barrow, Cristian Danescu-Niculescu-Mizil, Jordan Boyd-Graber
+
 -  [**Multi-Domain Goal-Oriented Dialogues (MultiDoGO): Strategies toward Curating and Annotating Large Scale Dialogue Data**](https://www.aclweb.org/anthology/D19-1460.pdf) (EMNLP 2019) <br />
 **Denis Peskov**†, Nancy Clarke†, Jason Krone†, Brigi Fodor, Yi Zhang, Adel Youssef, Mona Diab († Equal Effort)
 
@@ -16,11 +18,11 @@ permalink: /publications/
   Elissa Redmiles, Lisa Maszkiewicz, Emily Hwang, Dhruv Kuchhal, Everest Liu, Miraida Morales, **Denis Peskov**, Sudha Rao, Rock Stevens, Kristina Gligoric, Sean Kross, Michelle Mazurek, Hal Daumé III 
 
 
-- [**Mitigating Noisy Inputs for Question Answering**](http://users.umiacs.umd.edu/~jbg/docs/2019_interspeech_asr)(INTERSPEECH 2019)<br />
+- [**Mitigating Noisy Inputs for Question Answering**](http://users.umiacs.umd.edu/~jbg/docs/2019_interspeech_asr) (INTERSPEECH 2019) <br />
   **Denis Peskov**, Joe Barrow, Pedro Rodriguez, Graham Neubig, Jordan Boyd-Graber
   
   
-- [**Measuring the Rapid Growth of HSTS and HPKP Deployments**](https://pdfs.semanticscholar.org/253d/a72dc6597e1ea4752008a28fd89b66866190.pdf) (Unpublished 2017)<br />
+- [**Measuring the Rapid Growth of HSTS and HPKP Deployments**](https://pdfs.semanticscholar.org/253d/a72dc6597e1ea4752008a28fd89b66866190.pdf) (Unpublished 2017) <br />
 Ivan Petrov, **Denis Peskov**, Gregory Coard, Taejoong Chung, David Choffnes, Dave Levin, Bruce M. Maggs, Alan Mislove, Christo Wilson
   
   
