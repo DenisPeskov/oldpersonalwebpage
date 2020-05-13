@@ -26,5 +26,5 @@ permalink: /publications/
 Ivan Petrov, **Denis Peskov**, Gregory Coard, Taejoong Chung, David Choffnes, Dave Levin, Bruce M. Maggs, Alan Mislove, Christo Wilson
   
   
-- **UMDeep at SemEval-2017 Task 1: End-to-End Shared Weight LSTM Model for Semantic Textual Similarity**(https://www.aclweb.org/anthology/S17-2026.pdf) (SemEval 2017)<br />
+- [**UMDeep at SemEval-2017 Task 1: End-to-End Shared Weight LSTM Model for Semantic Textual Similarity**](https://www.aclweb.org/anthology/S17-2026.pdf) (SemEval 2017)<br />
   Joe Barrow, **Denis Peskov**
