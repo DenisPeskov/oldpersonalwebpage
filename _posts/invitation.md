@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /birthday
+permalink: /birthday/
 ---
 
 ## Who:
