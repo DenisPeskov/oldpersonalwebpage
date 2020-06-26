@@ -20,7 +20,7 @@ Tracht.  If you are unable to provide a Tracht, any folk dress would do or alter
 You
 
 ## What (to Bring):
-In lieu of flowers, the birthdayer requests Kloster Andechs,  Augstiner, or Delirium Tremoens beer for the group.  
+In lieu of flowers, the birthdayer requests Kloster Andechs, Augstiner, or Delirium Tremoens beer for the group.  
 
 ## Agenda:
 TBD
