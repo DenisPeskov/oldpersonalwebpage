@@ -1,7 +1,6 @@
 ---
 layout: post
 permalink: /birthday/
-exclude: true
 ---
 
 ## When: 
