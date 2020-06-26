@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Best Post-Corona Tracht Party This Side of the Rhine
+permalink: /birthday
 ---
 
 ## Who:
