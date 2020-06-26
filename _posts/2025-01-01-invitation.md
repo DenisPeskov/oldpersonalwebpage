@@ -1,11 +1,11 @@
 ---
 layout: post
 permalink: /birthday/
-
+hidden: true
 ---
 
 ## When: 
-Sunday July 5th.  15:00 - 18:00.  But like actually 15:00-ish
+Sunday July 5th.  15:00 - 18:00.  But like actually 15:00-15:30 arrival.  
 
 *in case of rain the organizers retain the right to move it to another date with two days notice
 
@@ -14,7 +14,7 @@ Englischer Garten TBD
 
 ## Wear:
 Tracht.  If you are unable to provide a Tracht, any folk dress would do or alternatively you are asked to dress in as bad of American taste as possible.
-![]() <img src="{{DenisPeskov.github.io}}/images/wiesn.jpg"  width="500" height="500">
+![]() <img src="{{DenisPeskov.github.io}}/images/wiesn.jpg"  width="300" height="500">
 
 
 ## Who:
