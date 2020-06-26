@@ -1,6 +1,7 @@
 ---
 layout: post
 permalink: /birthday/
+published: false
 ---
 
 ## When: 
@@ -12,6 +13,8 @@ Englischer Garten TBD
 
 ## Wear:
 Tracht.  If you are unable to provide a Tracht, any folk dress would do or alternatively you are asked to dress in as bad of American taste as possible.
+![]({{DenisPeskov.github.io}}/images/wiesn.jpg) 
+
 
 ## Who:
 You
@@ -21,4 +24,4 @@ In lieu of flowers, the birthdayer requests Kloster Andechs,  Augstiner, or Deli
 
 ## Agenda:
 TBD
-
+                                                  
