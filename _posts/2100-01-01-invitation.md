@@ -13,7 +13,7 @@ Englischer Garten TBD
 
 ## Wear:
 Tracht.  If you are unable to provide a Tracht, any folk dress would do or alternatively you are asked to dress in as bad of American taste as possible.
-![]({{DenisPeskov.github.io}}/images/wiesn.jpg=100x20) 
+![]({{DenisPeskov.github.io}}/images/wiesn.jpg =100x20) 
 
 
 ## Who:
