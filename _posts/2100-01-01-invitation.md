@@ -1,7 +1,7 @@
 ---
 layout: post
-permalink: /birthday/
-published: false
+permalink: '/birthday/
+
 ---
 
 ## When: 
