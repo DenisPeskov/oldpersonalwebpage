@@ -4,6 +4,8 @@ title: Publications
 permalink: /publications/
 ---
 
+-  [**ContraCAT: Contrastive Coreference Analytical Templates for Machine Translation**](http://cistern.cis.lmu.de/contracat/)(COLING 2020) <br /> Dario Stojanovski†, Benno Krojer†, Denis Peskov†, and Alexander Fraser († Equal Effort)
+
 -  [**It Takes Two To Lie: One to Lie, and One to Listen**](https://go.umd.edu/diplomacy_data) (ACL 2020) <br /> **Denis Peskov**, Benny Cheng, Ahmed Elgohary, Joe Barrow, Cristian Danescu-Niculescu-Mizil, Jordan Boyd-Graber
 
 -  [**Multi-Domain Goal-Oriented Dialogues (MultiDoGO): Strategies toward Curating and Annotating Large Scale Dialogue Data**](https://www.aclweb.org/anthology/D19-1460.pdf) (EMNLP 2019) <br />
