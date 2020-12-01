@@ -4,13 +4,13 @@ title: About
 permalink: /about/
 ---
 
-I am Denis Peskov, a PhD student studying studying computational linguistics (or NLP) at the University of Maryland.  I am advised by Professor Jordan Boyd-Graber.  My main research interest is leveraging domain experts to create meaningful and accurate datasets.  Additionally, I'm interested in question answering, machine translation, and computational social science.     
+I am Denis Peskov, a PhD student studying studying computational linguistics (or NLP) at the University of Maryland with Professor Jordan Boyd-Graber.   My main research interest is leveraging domain experts to create meaningful and accurate datasets.  I apply this to the domains of question answering, machine translation, and computational social science.     
 
 ### Education:
 
 Ph.D., University of Maryland, Computer Science 2016 - ?
 
-Visiting DAAD Fellow, Ludwig Maximillian Universität, 2020  
+Visiting DAAD Fellow, Ludwig Maximillian Universität 2020  
 
 M.S., University of Maryland, Computer Science 2016-2018
 
